@@ -33,7 +33,7 @@ fn main(
         input_aggregation_object
     );
 
-    // Verify transition from state_from to state_to
+    // Verify transition from state_root to post_state_root
 
     verify_transition(
         state_from,
