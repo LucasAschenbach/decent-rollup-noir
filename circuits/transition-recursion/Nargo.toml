@@ -1,0 +1,8 @@
+[package]
+name = "transition_recursion"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.19.4"
+
+[dependencies]
+rollup_lib = { path = "../rollup-lib" }
